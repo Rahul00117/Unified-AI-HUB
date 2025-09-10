@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2025-08-08 22:25:23",
+    "dataset_shape": [
+      183,
+      12
+    ],
+    "model_name": "Logistic Regression",
+    "target_column": "PassengerId",
+    "accuracy": 0.0,
+    "test_size": 0.2
+  }
+]
